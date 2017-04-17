@@ -1,5 +1,5 @@
 # Site settings
-title: Meme&Co
+title: BenAndIsaacMedia
 description: > # this means to ignore newlines until "baseurl:"
   Providing you with dank memes since 2016
 baseurl: "BenAndIsaacMedia" # the subpath of your site, e.g. /blog
