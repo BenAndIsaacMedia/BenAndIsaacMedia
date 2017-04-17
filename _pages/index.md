@@ -12,3 +12,5 @@ Good question, It's up there, next to the about page.
 ---
 ### See ya!
 -Ben :smile:
+
+This page will expand over time. :heart:
