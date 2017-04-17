@@ -1,7 +1,7 @@
 ---
 layout: default
 avatar: true
-permalink: https://BenAndIsaacMedia.github.io
+permalink: https://BenAndIsaacMedia.github.io/BenAndIsaacMedia
 ---
 ## Welcome!
 Hey, I'm Ben, your friendly local developer, I'm going to be doing the blog and stuff :)
